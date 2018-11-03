@@ -1,0 +1,26 @@
+implement your sorting algorithms. You must implement one algorithm in Category 1 and one algorithm in Category 2. 
+
+Category 1:  insertion sort, selection sort, bubble sort,
+
+Category 2: merge sort, quick sort
+
+ 
+
+Required test cases:
+
+            Array list:        [ 30, 10, 21, 15, 18, 42, 7, 28, 11, 17, 9, 2, 12, 14, 50]
+
+Required output:
+
+            The correct results for the input.
+
+ 
+
+ 
+
+Subproject 2 (4 points):
+
+Requirements:
+
+Develop a non-recursive post-order traversal program (algorithm) for the binary tree as follows. You can create the module of building the binary tree by yourself.
+
