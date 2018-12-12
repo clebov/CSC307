@@ -2,4 +2,6 @@
 assignments/bonus/and Labs
 
 
-this repository is for my CSC 307 class
+this repository is for the programs that we did as asignments for my Data Structures and Algorithm class
+
+
